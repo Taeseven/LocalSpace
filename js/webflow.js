@@ -3467,7 +3467,7 @@ Webflow.define('maps', module.exports = function ($, _) {
   var $maps;
   var namespace = '.w-widget-map'; // The API key is injected here from the Webflow Integrations tab on the site's dashboard
 
-  var googleMapsApiKey = 'AIzaSyDMuIiGl3UaSf19GEi831KfaTmU8XsrlIA'; // -----------------------------------
+  var googleMapsApiKey = 'AIzaSyDMuIiGl3UaSf19GEi831KfaTmU8XsrlI'; // -----------------------------------
   // Module methods
 
   api.ready = function () {
